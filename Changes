@@ -1,0 +1,6 @@
+Revision history for Perl extension Net::WhoisNG::Person.
+
+0.01  Thu Jul  1 10:36:55 2004
+	- original version; created by h2xs 1.23 with options
+		-A -X -n Net::WhoisNG::Person
+
