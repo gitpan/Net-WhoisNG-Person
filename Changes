@@ -6,3 +6,6 @@ Revision history for Perl extension Net::WhoisNG::Person.
 
 0.02   Wed jul 21
          - Removed requirement for perl 5.8.4
+
+0.03   Fri jul 23 2004
+         - Really removed requirement for 5.8.4
